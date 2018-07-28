@@ -1,0 +1,42 @@
+{
+	"details":{
+	"name":"Prathyusha",
+	"image":"image.jpg",
+	"phone":"9999999999","email":"prathyushachinnala98@gmail.com"
+
+},
+"education":[
+{
+	"course":"Btech(cse)",
+	"college":"MIC College",
+	"percentage":"80%"
+},
+{
+	"course":"Intermediate(MPC)",
+	"college":"scgjc",
+	"percentage":"95%"
+},
+{
+	"course":"CBSE",
+	"college":"Atkinson",
+	"percentage":"98%"
+}
+],
+"skills":[
+{
+	"title":"programming language",
+	"output":[
+	"C","C++","Java","Python"
+	]
+},
+{
+	"title":"Operating Systems",
+	"output":[
+	"WINDOWS","Linux","Mac"
+	  ]
+	 }
+   ],
+"carrier":{
+	"co":"this is certification courses required for knowledge in programming"
+    }
+}
